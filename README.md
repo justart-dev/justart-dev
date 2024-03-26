@@ -3,7 +3,7 @@
 
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://parklego.github.io/](https://parklego.github.io/)
+- 👨‍💻 All of my projects are available at [https://parklego.notion.site/Portfolio-c07b3905522b41fdaf8953eb4bd0e05f](https://parklego.notion.site/Portfolio-c07b3905522b41fdaf8953eb4bd0e05f)
 
 - 📝 I regularly write articles on [https://parklego.github.io/](https://parklego.github.io/)
 
