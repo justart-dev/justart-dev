@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **hbd9425@gmail.com**
 
-- 📄 Know about my experiences [https://my.surfit.io/w/652599610](https://my.surfit.io/w/652599610)
-
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parklego&label=Profile%20views&color=0e75b6&style=flat" alt="parklego" /> </p>
