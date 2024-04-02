@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Donggun Park, a developer who enjoys a new challenge.</h1>
-<h3 align="center">My goal is to become a developer who grows and develops with the team by trying to make it a fun and enjoyable experience when we work together.</h3>
+<h1 align="center">Hi👋, 프론트엔드 개발자 박동건입니다. </h1>
+<h3 align="center">함께 일 하고싶은, 함께하면 즐거운 사람이 되는 것이 꿈입니다.</h3>
 
 <br/>
 
