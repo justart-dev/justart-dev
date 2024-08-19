@@ -3,7 +3,7 @@
 
 <br/>
 
-- 👨‍💻 About me at [profile](https://my.surfit.io/w/652599610)
+- 👨‍💻 About me at [Profile](https://my.surfit.io/w/652599610)
 
 - 📝 I regularly write articles on [Blog](https://parklego.github.io/)
 - 📝 I regularly write TIL on [Notion](https://www.notion.so/parklego/95a04974aa47476e9930ba3b214441a8)
