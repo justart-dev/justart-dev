@@ -12,4 +12,4 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parklego&layout=compact)](https://github.com/parklego/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parklego&hide=html,php)
